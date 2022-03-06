@@ -11,3 +11,4 @@ Repository with solutions of various algorithms and datastructure problems
 7. reverse integer https://leetcode.com/problems/reverse-integer/
 8. First unique character in a string https://leetcode.com/problems/first-unique-character-in-a-string/
 9. Valid anagram https://leetcode.com/problems/valid-anagram/
+10. Delete Node in a Lined List https://leetcode.com/problems/delete-node-in-a-linked-list/
