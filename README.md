@@ -16,3 +16,4 @@ Repository with solutions of various algorithms and datastructure problems
 12. Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/
 13. Remove nth node from end of list https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 14. Maximum depth of binary tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+15. Validate BST https://leetcode.com/problems/validate-binary-search-tree/
