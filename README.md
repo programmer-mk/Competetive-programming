@@ -20,3 +20,4 @@ Repository with solutions of various algorithms and datastructure problems
 16. BT level order https://leetcode.com/problems/binary-tree-level-order-traversal/
 17. Single number https://leetcode.com/problems/single-number/
 18. Plus One https://leetcode.com/problems/plus-one/
+19. Valid palindrome https://leetcode.com/problems/valid-palindrome/
