@@ -21,3 +21,4 @@ Repository with solutions of various algorithms and datastructure problems
 17. Single number https://leetcode.com/problems/single-number/
 18. Plus One https://leetcode.com/problems/plus-one/
 19. Valid palindrome https://leetcode.com/problems/valid-palindrome/
+20. Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
