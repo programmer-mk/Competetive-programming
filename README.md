@@ -26,3 +26,4 @@ Repository with solutions of various algorithms and datastructure problems
 22. Hamming distance https://leetcode.com/problems/hamming-distance/
 23. Pascal's triangle https://leetcode.com/problems/pascals-triangle/
 24. Missing number https://leetcode.com/problems/missing-number/
+25. Valid Parentheses https://leetcode.com/problems/valid-parentheses/
