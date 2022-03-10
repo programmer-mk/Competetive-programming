@@ -28,3 +28,4 @@ Repository with solutions of various algorithms and datastructure problems
 24. Missing number https://leetcode.com/problems/missing-number/
 25. Valid Parentheses https://leetcode.com/problems/valid-parentheses/
 26. Reverse bits https://leetcode.com/problems/reverse-bits/
+27. Symmetric Tree https://leetcode.com/problems/symmetric-tree/
