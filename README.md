@@ -24,3 +24,4 @@ Repository with solutions of various algorithms and datastructure problems
 20. Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
 21. Number of 1 bits https://leetcode.com/problems/number-of-1-bits/
 22. Hamming distance https://leetcode.com/problems/hamming-distance/
+23. Pascal's triangle https://leetcode.com/problems/pascals-triangle/
