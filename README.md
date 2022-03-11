@@ -30,4 +30,4 @@ Repository with solutions of various algorithms and datastructure problems
 26. Reverse bits https://leetcode.com/problems/reverse-bits/
 27. Symmetric Tree https://leetcode.com/problems/symmetric-tree/
 28. Add Two Numbers https://leetcode.com/problems/add-two-numbers/
-29. 
+29. 3 Sum https://leetcode.com/problems/3sum/
