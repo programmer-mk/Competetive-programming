@@ -36,3 +36,4 @@ Repository with solutions of various algorithms and datastructure problems
 32. Generate parentheses https://leetcode.com/problems/generate-parentheses/
 33. Remove element https://leetcode.com/problems/remove-element/
 34. Permutations https://leetcode.com/problems/permutations
+35. Same tree https://leetcode.com/problems/same-tree
