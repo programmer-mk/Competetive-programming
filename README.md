@@ -31,3 +31,4 @@ Repository with solutions of various algorithms and datastructure problems
 27. Symmetric Tree https://leetcode.com/problems/symmetric-tree/
 28. Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 29. 3 Sum https://leetcode.com/problems/3sum/
+30. Remove duplicates from sorted array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
