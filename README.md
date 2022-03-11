@@ -34,4 +34,5 @@ Repository with solutions of various algorithms and datastructure problems
 30. Remove duplicates from sorted array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 31. BT inorder traversal https://leetcode.com/problems/binary-tree-inorder-traversal/
 32. Generate parentheses https://leetcode.com/problems/generate-parentheses/
-33. Remove element https://leetcode.com/problems/remove-element/ 
+33. Remove element https://leetcode.com/problems/remove-element/
+34. Permutations https://leetcode.com/problems/permutations
