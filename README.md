@@ -40,3 +40,4 @@ Repository with solutions of various algorithms and datastructure problems
 36. Count and say https://leetcode.com/problems/count-and-say/
 37. Set matrix zeroes https://leetcode.com/problems/set-matrix-zeroes/
 38. Word search https://leetcode.com/problems/word-search
+39. Find mode in BST https://leetcode.com/problems/find-mode-in-binary-search-tree/
