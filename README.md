@@ -38,3 +38,4 @@ Repository with solutions of various algorithms and datastructure problems
 34. Permutations https://leetcode.com/problems/permutations
 35. Same tree https://leetcode.com/problems/same-tree
 36. Count and say https://leetcode.com/problems/count-and-say/
+37. Set matrix zeroes https://leetcode.com/problems/set-matrix-zeroes/
