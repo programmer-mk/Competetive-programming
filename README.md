@@ -37,3 +37,4 @@ Repository with solutions of various algorithms and datastructure problems
 33. Remove element https://leetcode.com/problems/remove-element/
 34. Permutations https://leetcode.com/problems/permutations
 35. Same tree https://leetcode.com/problems/same-tree
+36. Count and say https://leetcode.com/problems/count-and-say/
