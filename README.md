@@ -41,4 +41,4 @@ Repository with solutions of various algorithms and datastructure problems
 37. Set matrix zeroes https://leetcode.com/problems/set-matrix-zeroes/
 38. Word search https://leetcode.com/problems/word-search
 39. Find mode in BST https://leetcode.com/problems/find-mode-in-binary-search-tree/
-40. https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
+40. Maximum Sum Subarray of Size Khttps://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
