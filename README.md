@@ -43,3 +43,4 @@ Repository with solutions of various algorithms and datastructure problems
 39. Find mode in BST https://leetcode.com/problems/find-mode-in-binary-search-tree/
 40. Maximum Sum Subarray of Size Khttps://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
 41. Smallest Subarray With a Greater Sum https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ
+42. Longest Substring with maximum K Distinct Characters https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80
