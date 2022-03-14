@@ -46,3 +46,4 @@ Repository with solutions of various algorithms and datastructure problems
 42. Longest Substring with maximum K Distinct Characters https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80
 43. 3Sum closest https://leetcode.com/problems/3sum-closest
 44. Subarray product less than k https://leetcode.com/problems/subarray-product-less-than-k
+45. Sort colors https://leetcode.com/problems/sort-colors
