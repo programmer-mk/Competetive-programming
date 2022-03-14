@@ -52,3 +52,4 @@ Repository with solutions of various algorithms and datastructure problems
 48. Happy Number https://www.educative.io/courses/grokking-the-coding-interview/39q3ZWq27jM
 49. Middle of the LL https://leetcode.com/problems/middle-of-the-linked-list/
 50. Insert interval https://leetcode.com/problems/insert-interval/
+51. Interval list intersections https://leetcode.com/problems/interval-list-intersections/
