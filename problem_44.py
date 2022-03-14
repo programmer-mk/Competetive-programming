@@ -1,6 +1,6 @@
 class Solution:
     """
-    One huge test case exceeds runtime limit
+        One huge test case exceeds runtime limit
     """
     def numSubarrayProductLessThanK(self, nums, k: int) -> int:
         if k == 0:
