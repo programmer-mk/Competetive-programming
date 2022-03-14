@@ -51,3 +51,4 @@ Repository with solutions of various algorithms and datastructure problems
 47. Start of LinkedList Cycle https://www.educative.io/courses/grokking-the-coding-interview/N7pvEn86YrN
 48. Happy Number https://www.educative.io/courses/grokking-the-coding-interview/39q3ZWq27jM
 49. Middle of the LL https://leetcode.com/problems/middle-of-the-linked-list/
+50. Insert interval https://leetcode.com/problems/insert-interval/
