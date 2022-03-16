@@ -60,5 +60,7 @@ Repository with solutions of various algorithms and datastructure problems
 56. Reverse Level Order Traversal https://www.educative.io/courses/grokking-the-coding-interview/m2N6GwARL8r
 57. Path Sum https://leetcode.com/problems/path-sum/
 58. Path Sum II https://leetcode.com/problems/path-sum-ii/
-59. 
+59. Subsets - iterative https://leetcode.com/problems/subsets/
+60. Subsets - recusive https://leetcode.com/problems/subsets/
+61. Subsets II - https://leetcode.com/problems/subsets-ii
 
