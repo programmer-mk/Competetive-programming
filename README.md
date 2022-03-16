@@ -56,3 +56,9 @@ Repository with solutions of various algorithms and datastructure problems
 52. Cyclic sort https://www.educative.io/courses/grokking-the-coding-interview/B8qXVqVwDKY
 53. Find the Duplicate Number https://www.educative.io/courses/grokking-the-coding-interview/3wEkKy6Pr9A
 54. Reverse a Sub-list https://www.educative.io/courses/grokking-the-coding-interview/qVANqMonoB2
+55. Reverse every K-element Sub-list https://www.educative.io/courses/grokking-the-coding-interview/RMZylvkGznR
+56. Reverse Level Order Traversal https://www.educative.io/courses/grokking-the-coding-interview/m2N6GwARL8r
+57. Path Sum https://leetcode.com/problems/path-sum/
+58. Path Sum II https://leetcode.com/problems/path-sum-ii/
+59. 
+
