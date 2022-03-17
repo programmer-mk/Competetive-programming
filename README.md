@@ -66,3 +66,4 @@ Repository with solutions of various algorithms and datastructure problems
 62. Permutations(iterative) -  https://leetcode.com/problems/permutations/
 63. Binary search(iterative) - https://leetcode.com/problems/binary-search/
 64. Search insert position - https://leetcode.com/problems/search-insert-position/
+65. Find smallest letter greater than target https://leetcode.com/problems/find-smallest-letter-greater-than-target/
