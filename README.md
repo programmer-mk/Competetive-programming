@@ -63,4 +63,6 @@ Repository with solutions of various algorithms and datastructure problems
 59. Subsets - iterative https://leetcode.com/problems/subsets/
 60. Subsets - recusive https://leetcode.com/problems/subsets/
 61. Subsets II - https://leetcode.com/problems/subsets-ii
-
+62. Permutations(iterative) -  https://leetcode.com/problems/permutations/
+63. Binary search(iterative) - https://leetcode.com/problems/binary-search/
+64. Search insert position - https://leetcode.com/problems/search-insert-position/
