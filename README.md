@@ -67,3 +67,5 @@ Repository with solutions of various algorithms and datastructure problems
 63. Binary search(iterative) - https://leetcode.com/problems/binary-search/
 64. Search insert position - https://leetcode.com/problems/search-insert-position/
 65. Find smallest letter greater than target https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+66. Find range of elem in sorted array https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+67. Letter case permutation https://leetcode.com/problems/letter-case-permutation/
