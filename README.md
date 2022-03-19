@@ -73,3 +73,4 @@ Repository with solutions of various algorithms and datastructure problems
 69. Single Number III - https://leetcode.com/problems/single-number-iii
 70. Kth largest element - https://leetcode.com/problems/kth-largest-element-in-an-array/
 71. K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/
+72. Mege K sorted lists - https://www.educative.io/courses/grokking-the-coding-interview/Y5n0n3vAgYK
