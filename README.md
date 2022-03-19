@@ -70,3 +70,4 @@ Repository with solutions of various algorithms and datastructure problems
 66. Find range of elem in sorted array https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 67. Letter case permutation https://leetcode.com/problems/letter-case-permutation/
 68. Single Number II - https://leetcode.com/problems/single-number-ii
+69. Single Number III - https://leetcode.com/problems/single-number-iii
