@@ -71,3 +71,5 @@ Repository with solutions of various algorithms and datastructure problems
 67. Letter case permutation https://leetcode.com/problems/letter-case-permutation/
 68. Single Number II - https://leetcode.com/problems/single-number-ii
 69. Single Number III - https://leetcode.com/problems/single-number-iii
+70. Kth largest element - https://leetcode.com/problems/kth-largest-element-in-an-array/
+71. K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/
