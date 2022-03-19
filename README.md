@@ -75,3 +75,4 @@ Repository with solutions of various algorithms and datastructure problems
 71. K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/
 72. Mege K sorted lists - https://www.educative.io/courses/grokking-the-coding-interview/Y5n0n3vAgYK
 73. Kth Smallest Number in M Sorted Lists - https://www.educative.io/courses/grokking-the-coding-interview/myAqDMyRXn3
+74. Longest substring with distinct characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
