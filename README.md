@@ -78,3 +78,5 @@ Repository with solutions of various algorithms and datastructure problems
 74. Longest substring with distinct characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 75. 4 Sum - https://leetcode.com/problems/4sum/
 76. Find the Corrupt Pair - https://www.educative.io/courses/grokking-the-coding-interview/mE2LVDE3wp0
+77. Reverse alternating K-element Sub-list - https://www.educative.io/courses/grokking-the-coding-interview/m2YYJJRP9KG
+78. Populating next right pointers -  https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
