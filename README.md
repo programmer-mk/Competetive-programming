@@ -83,3 +83,6 @@ Repository with solutions of various algorithms and datastructure problems
 79. 0/1 Knapsack(recursive) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
 80. 0/1 Knapsack(memoization) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
 81. 0/1 Knapsack(top-down) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
+82. Partition equal subset sum(brute-force) - https://leetcode.com/problems/partition-equal-subset-sum/
+83. Partition equal subset sum(memoization) - https://leetcode.com/problems/partition-equal-subset-sum/
+84. Subset Sum - https://www.educative.io/courses/grokking-the-coding-interview/gxrnL0GQGqk
