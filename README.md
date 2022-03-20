@@ -77,3 +77,4 @@ Repository with solutions of various algorithms and datastructure problems
 73. Kth Smallest Number in M Sorted Lists - https://www.educative.io/courses/grokking-the-coding-interview/myAqDMyRXn3
 74. Longest substring with distinct characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 75. 4 Sum - https://leetcode.com/problems/4sum/
+76. Find the Corrupt Pair - https://www.educative.io/courses/grokking-the-coding-interview/mE2LVDE3wp0
