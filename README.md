@@ -80,3 +80,6 @@ Repository with solutions of various algorithms and datastructure problems
 76. Find the Corrupt Pair - https://www.educative.io/courses/grokking-the-coding-interview/mE2LVDE3wp0
 77. Reverse alternating K-element Sub-list - https://www.educative.io/courses/grokking-the-coding-interview/m2YYJJRP9KG
 78. Populating next right pointers -  https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+79. 0/1 Knapsack(recursive) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
+80. 0/1 Knapsack(memoization) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
+81. 0/1 Knapsack(top-down) - https://www.educative.io/courses/grokking-the-coding-interview/gkZNLjV2kBk
