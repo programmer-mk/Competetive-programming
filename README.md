@@ -90,3 +90,4 @@ Repository with solutions of various algorithms and datastructure problems
 86. Sum of Path Numbers - https://www.educative.io/courses/grokking-the-coding-interview/YQ5o5vEXP69
 87. Search in a Sorted Infinite Array - https://www.educative.io/courses/grokking-the-coding-interview/B1ZW38kXJB2
 88. Path With Given Sequence - https://www.educative.io/courses/grokking-the-coding-interview/m280XNlPOkn
+89. Balanced parentheses - iterative(BFS) - https://leetcode.com/problems/generate-parentheses/
