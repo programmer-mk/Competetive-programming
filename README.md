@@ -86,3 +86,7 @@ Repository with solutions of various algorithms and datastructure problems
 82. Partition equal subset sum(brute-force) - https://leetcode.com/problems/partition-equal-subset-sum/
 83. Partition equal subset sum(memoization) - https://leetcode.com/problems/partition-equal-subset-sum/
 84. Subset Sum - https://www.educative.io/courses/grokking-the-coding-interview/gxrnL0GQGqk
+85. Connect All Level Order Siblings - https://www.educative.io/courses/grokking-the-coding-interview/NE5109Jl02v
+86. Sum of Path Numbers - https://www.educative.io/courses/grokking-the-coding-interview/YQ5o5vEXP69
+87. Search in a Sorted Infinite Array - https://www.educative.io/courses/grokking-the-coding-interview/B1ZW38kXJB2
+88. Path With Given Sequence - https://www.educative.io/courses/grokking-the-coding-interview/m280XNlPOkn
