@@ -91,3 +91,4 @@ Repository with solutions of various algorithms and datastructure problems
 87. Search in a Sorted Infinite Array - https://www.educative.io/courses/grokking-the-coding-interview/B1ZW38kXJB2
 88. Path With Given Sequence - https://www.educative.io/courses/grokking-the-coding-interview/m280XNlPOkn
 89. generate parentheses - iterative(BFS) - https://leetcode.com/problems/generate-parentheses/
+90. Complement of base 10 integer - https://leetcode.com/problems/complement-of-base-10-integer/submissions/
