@@ -95,3 +95,10 @@ Repository with solutions of various algorithms and datastructure problems
 91. Connect Ropes - https://www.educative.io/courses/grokking-the-coding-interview/qVZmZJVxPY0
 92. Top K Frequent elements - https://leetcode.com/problems/top-k-frequent-elements/
 93. Minimum Meeting Rooms - https://www.educative.io/courses/grokking-the-coding-interview/xVoBRZz7RwP
+94. K Pairs with Largest Sums - https://www.educative.io/courses/grokking-the-coding-interview/B1JKxRB8EDJ
+95. - 
+96. Is subsequence https://leetcode.com/problems/is-subsequence/
+97. Delete and earn(Memoization) - https://leetcode.com/problems/delete-and-earn/
+98. Delete and earn(Bottom-Up) - https://leetcode.com/problems/delete-and-earn/
+99. Merge Two Sorted Lists(recursive) - https://leetcode.com/problems/merge-two-sorted-lists/
+100. Remove Duplicate letters - https://leetcode.com/problems/remove-duplicate-letters/
