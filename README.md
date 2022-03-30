@@ -102,3 +102,10 @@ Repository with solutions of various algorithms and datastructure problems
 98. Delete and earn(Bottom-Up) - https://leetcode.com/problems/delete-and-earn/
 99. Merge Two Sorted Lists(recursive) - https://leetcode.com/problems/merge-two-sorted-lists/
 100. Remove Duplicate letters - https://leetcode.com/problems/remove-duplicate-letters/
+101. Minimum Subset Sum Difference(memoization) - https://www.educative.io/courses/grokking-the-coding-interview/mE53y85Wqw9
+102. Minimum Subset Sum Difference(Bottom-up) - https://www.educative.io/courses/grokking-the-coding-interview/mE53y85Wqw9
+103. Minimum Difference Element - https://www.educative.io/courses/grokking-the-coding-interview/mymvP915LY9
+104. Kth Largest Number in a Stream - https://www.educative.io/courses/grokking-the-coding-interview/B819G5DZBxX
+105. Find K closest elements - https://leetcode.com/problems/find-k-closest-elements/
+106. Find peak element - https://leetcode.com/problems/find-peak-element/
+107. Count of Subset Sum(memoization) - https://www.educative.io/courses/grokking-the-coding-interview/qZgJyPqwJ80
