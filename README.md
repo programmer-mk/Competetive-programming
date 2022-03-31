@@ -109,3 +109,7 @@ Repository with solutions of various algorithms and datastructure problems
 105. Find K closest elements - https://leetcode.com/problems/find-k-closest-elements/
 106. Find peak element - https://leetcode.com/problems/find-peak-element/
 107. Count of Subset Sum(memoization) - https://www.educative.io/courses/grokking-the-coding-interview/qZgJyPqwJ80
+108. Longest common subsequence - https://leetcode.com/problems/longest-common-subsequence/
+109. Re-arrange characters - https://app.glider.ai/practice/problem/data-structures/rearrange-characters-so-that-no-adjacent-character/problem
+110. Biology lab - https://app.glider.ai/practice/problem/algorithms/biology-lab/problem
+111. Word break - https://app.glider.ai/practice/problem/algorithms/word-break/problem
