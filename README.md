@@ -113,3 +113,7 @@ Repository with solutions of various algorithms and datastructure problems
 109. Re-arrange characters - https://app.glider.ai/practice/problem/data-structures/rearrange-characters-so-that-no-adjacent-character/problem
 110. Biology lab - https://app.glider.ai/practice/problem/algorithms/biology-lab/problem
 111. Word break - https://app.glider.ai/practice/problem/algorithms/word-break/problem
+112. Produce Items - https://app.glider.ai/practice/problem/algorithms/produce-items/problem
+113. Zero Sum - https://app.glider.ai/practice/problem/algorithms/zero-sum/problem
+114. Paper cut - https://app.glider.ai/practice/problem/algorithms/paper-cut/problem
+115. Perfect subset - https://app.glider.ai/practice/problem/math/perfect-subset/problem
