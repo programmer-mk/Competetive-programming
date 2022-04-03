@@ -117,3 +117,11 @@ Repository with solutions of various algorithms and datastructure problems
 113. Zero Sum - https://app.glider.ai/practice/problem/algorithms/zero-sum/problem
 114. Paper cut - https://app.glider.ai/practice/problem/algorithms/paper-cut/problem
 115. Perfect subset - https://app.glider.ai/practice/problem/math/perfect-subset/problem
+116. Print distinct digts of an array - https://app.glider.ai/practice/problem/algorithms/reverse-an-array-or-list/problem
+117. Armstrong number - https://app.glider.ai/practice/problem/math/armstrong-number/problem
+118. Rat in a maze problem - https://app.glider.ai/practice/problem/algorithms/rat-in-a-maze-problem/problem
+119. Weighting Scale - https://app.glider.ai/practice/problem/algorithms/weighting-scale/problem
+120. Two Array Merge possible ways - https://app.glider.ai/practice/problem/math/two-array-merge/problem
+121. Bus station - https://app.glider.ai/practice/problem/algorithms/bus-station-problem/problem
+122. Nearly sorted array - https://app.glider.ai/practice/problem/algorithms/nearly-sorted-array/problem
+123. Count ways to reach the nth stair - https://app.glider.ai/tutorials/count-ways-to-reach-the-nth-stair/problem
