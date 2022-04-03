@@ -125,3 +125,5 @@ Repository with solutions of various algorithms and datastructure problems
 121. Bus station - https://app.glider.ai/practice/problem/algorithms/bus-station-problem/problem
 122. Nearly sorted array - https://app.glider.ai/practice/problem/algorithms/nearly-sorted-array/problem
 123. Count ways to reach the nth stair - https://app.glider.ai/tutorials/count-ways-to-reach-the-nth-stair/problem
+124. Golomb sequence - https://app.glider.ai/practice/problem/algorithms/golomb-sequence/problem
+125. House robber - https://leetcode.com/problems/house-robber
