@@ -127,3 +127,11 @@ Repository with solutions of various algorithms and datastructure problems
 123. Count ways to reach the nth stair - https://app.glider.ai/tutorials/count-ways-to-reach-the-nth-stair/problem
 124. Golomb sequence - https://app.glider.ai/practice/problem/algorithms/golomb-sequence/problem
 125. House robber - https://leetcode.com/problems/house-robber
+126. Print all posible strings separated with space - https://app.glider.ai/practice/problem/algorithms/print-all-possible-strings-separated-by-a-space/problem
+127. Maximum number with K swaps https://app.glider.ai/tutorials/find-the-maximum-number-by-doing-k-swaps/problem
+128. Longest common substring - https://app.glider.ai/tutorials/longest-common-substring/problem
+129. Maximum triplet product - https://app.glider.ai/practice/problem/algorithms/maximum-triplet-product/problem
+130. Maximum Subarray Sum - https://app.glider.ai/practice/problem/algorithms/maximum-subarray-sum/problem
+131. Coin change(recursive) - https://app.glider.ai/practice/problem/algorithms/coin-change/problem
+132. Cut down trees - https://app.glider.ai/practice/problem/algorithms/cut-down-trees/problem
+133. Water fill glasses - https://app.glider.ai/tutorials/water-fill-glasses/problem
