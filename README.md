@@ -135,3 +135,7 @@ Repository with solutions of various algorithms and datastructure problems
 131. Coin change(recursive) - https://app.glider.ai/practice/problem/algorithms/coin-change/problem
 132. Cut down trees - https://app.glider.ai/practice/problem/algorithms/cut-down-trees/problem
 133. Water fill glasses - https://app.glider.ai/tutorials/water-fill-glasses/problem
+134. Number of islands - https://leetcode.com/problems/number-of-islands/
+135. Min stack - https://leetcode.com/problems/min-stack/
+136. Minimum in rotated array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+137. Nqueen problem - https://app.glider.ai/practice/problem/algorithms/nqueen-problem/problem
