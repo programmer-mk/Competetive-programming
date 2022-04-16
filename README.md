@@ -140,4 +140,12 @@ Repository with solutions of various algorithms and datastructure problems
 136. Minimum in rotated array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 137. Nqueen problem - https://app.glider.ai/practice/problem/algorithms/nqueen-problem/problem
 138. graph creation, dfs and bfs traversals
-138. graph topological sort
+139. graph topological sort
+140. graph topolocigcal sort bfs
+141. hackerrank 'Table of contents' problem
+142. heackerrank 'Employee discussion' problem
+143. hackerrank 'Chocolate box' problem
+144. Max area of island - https://leetcode.com/problems/max-area-of-island
+145. Course Schedule - https://leetcode.com/problems/course-schedule
+146. Decode ways - https://leetcode.com/problems/decode-ways
+147. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence
