@@ -149,3 +149,5 @@ Repository with solutions of various algorithms and datastructure problems
 145. Course Schedule - https://leetcode.com/problems/course-schedule
 146. Decode ways - https://leetcode.com/problems/decode-ways
 147. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence
+----------------------------------------------------------------------------------------------
+148. Find all numbers disappeared in array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
