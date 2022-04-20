@@ -157,3 +157,7 @@ Repository with solutions of various algorithms and datastructure problems
 152. Best time to buy and sell stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 153. House robber - https://leetcode.com/problems/house-robber
 154. Backspace string compare - https://leetcode.com/problems/backspace-string-compare
+155. Letter combination of phone number - https://leetcode.com/problems/letter-combinations-of-a-phone-number
+156. Coin change - https://leetcode.com/problems/coin-change
+157. Maximum depth of BT - https://leetcode.com/problems/maximum-depth-of-binary-tree
+158. Jump game - https://leetcode.com/problems/jump-game
