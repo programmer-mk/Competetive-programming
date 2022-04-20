@@ -151,3 +151,9 @@ Repository with solutions of various algorithms and datastructure problems
 147. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence
 ----------------------------------------------------------------------------------------------
 148. Find all numbers disappeared in array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+149. Middle of linked list - https://leetcode.com/problems/middle-of-the-linked-list
+150. Combinations(iterative) -  https://leetcode.com/problems/combinations
+151. Combinations(recursive) -  https://leetcode.com/problems/combinations
+152. Best time to buy and sell stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+153. House robber - https://leetcode.com/problems/house-robber
+154. Backspace string compare - https://leetcode.com/problems/backspace-string-compare
