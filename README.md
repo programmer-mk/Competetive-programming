@@ -163,4 +163,5 @@ Repository with solutions of various algorithms and datastructure problems
 158. Jump game - https://leetcode.com/problems/jump-game
 159. Sort an array(merge sort) - https://leetcode.com/problems/sort-an-array
 160. Merge two binary trees - https://leetcode.com/problems/merge-two-binary-trees
-161.
+161. Sort list - https://leetcode.com/problems/sort-list
+162. LRU cache - https://leetcode.com/problems/lru-cache
