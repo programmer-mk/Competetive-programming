@@ -161,3 +161,6 @@ Repository with solutions of various algorithms and datastructure problems
 156. Coin change - https://leetcode.com/problems/coin-change
 157. Maximum depth of BT - https://leetcode.com/problems/maximum-depth-of-binary-tree
 158. Jump game - https://leetcode.com/problems/jump-game
+159. Sort an array(merge sort) - https://leetcode.com/problems/sort-an-array
+160. Merge two binary trees - https://leetcode.com/problems/merge-two-binary-trees
+161.
